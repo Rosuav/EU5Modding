@@ -1,0 +1,10 @@
+{
+	"name": "Hacky Hack",
+	"id": "HackyHack",
+	"version": "0.1",
+	"supported_game_version": "1.0.*",
+	"short_description": "Test mod, not at all balanced",
+	"tags": ["Balance", "Gameplay", "Missions"],
+	"relationships": [],
+	"game_custom_data": {}
+}
